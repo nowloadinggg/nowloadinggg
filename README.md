@@ -8,7 +8,7 @@ While early in my career, I bring enthusiasm and a keen eye, leveraging quantita
 As a beginner, I am fully aware how my codes can be improved to increase efficiency. Any recommendation, suggestion and criticism is welcomed. 
 
 Please, if you have anything to contribute or comment, don't hesistate to reach out to me via email at quynhanhlephamm@gmail.com. Let's also connect on LinkedIn: https://www.linkedin.com/in/quynhanhlephamm/!
-# 👯 Thanks for visting
+# 👯 Deeply thankful!
 Thanks for visiting my profile. I would love to bring more of me on this Github and contribute to the open-source community in the future. 
 <!--
 
