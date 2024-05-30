@@ -1,7 +1,7 @@
 # Welcome to my Github profile 😄!!!
 My name is Quynh Anh Le Pham, an undergraduate in University of Economics and Law, Ho Chi Minh City, Vietnam.
 # ✨ About me 
-Greetings! I'm Quynh Anh, a senior student majored in Business Analytics and Artificial Intelligence, bridging the worlds of business and engineering. My academic background encompasses a comprehensive understanding of business domains, including Economics, Accounting, and Marketing, complemented by solid technical skills. This powerful combination allows me to navigate the intricate realms of data management deftly while seamlessly integrating data-driven solutions into organizational frameworks for impactful decision-making. 
+Greetings! I'm Quynh Anh, a senior student majoring in Business Analytics and Artificial Intelligence, bridging the worlds of business and engineering. My academic background encompasses a comprehensive understanding of business domains, including Economics, Accounting, and Marketing, complemented by solid technical skills. This powerful combination allows me to navigate the intricate realms of data management deftly while seamlessly integrating data-driven solutions into organizational frameworks for impactful decision-making. 
 
 While early in my career, I bring enthusiasm and a keen eye, leveraging quantitative methods to identify overlooked patterns and opportunities within datasets. I'm committed to continuous learning, unlocking your data's full potential, and propelling your success through the synergy of business acumen and technological prowess.
 # 📫 How to reach me
